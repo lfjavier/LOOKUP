@@ -1,0 +1,8 @@
+db.alumnos.insert({"_idA":1,"matricula":"1110","nombreA":"Manuel","apellido":"Rodriguez","sexo":"M","_idAG":2,"edad":21 })
+db.alumnos.insert({"_idA":2,"matricula":"1111","nombreA":"Jose","apellido":"Armenta","sexo":"M","_idAG":3,"edad":19 })
+db.alumnos.insert({"_idA":3,"matricula":"1112","nombreA":"Rosa","apellido":"Gutierrez","sexo":"F","_idAG":4,"edad":27 })
+db.alumnos.insert({"_idA":4,"matricula":"1113","nombreA":"Maria","apellido":"Espigares","sexo":"F","_idAG":2,"edad":24 })
+db.alumnos.insert({"_idA":5,"matricula":"1114","nombreA":"Diego","apellido":"Fernandez","sexo":"M","_idAG":1,"edad":18 })
+db.alumnos.insert({"_idA":6,"matricula":"1115","nombreA":"Alejandro","apellido":"Garcia","sexo":"M","_idAG":4,"edad":30 })
+db.alumnos.insert({"_idA":7,"matricula":"1116","nombreA":"David","apellido":"Sanchez","sexo":"M","_idAG":3,"edad":35 })
+db.alumnos.insert({"_idA":8,"matricula":"1117","nombreA":"Celia","apellido":"Peña","sexo":"F","_idAG":1,"edad":23 })
